@@ -4,7 +4,6 @@ var config_data = `
   "enable_google_sheets": "true",
   "page_title": "Charged Up",
   "checkboxAs": "10",
-  "enable_google_sheets": "true",
   "prematch": [
     { "name": "Scouter Initials",
       "code": "s",
@@ -18,7 +17,7 @@ var config_data = `
       "code": "e",
       "gsCol": "event",
       "type": "event",
-      "defaultValue": "2022carv",
+      "defaultValue": "2023alhu",
       "required": "true",
       "disabled": "true"
     },
