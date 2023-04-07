@@ -264,7 +264,7 @@ var config_data = `
       "gsCol": "comments",
       "type": "text",
       "size": 15,
-      "maxSize": 50
+      "maxSize": 255
     }
   ]
 }`;
